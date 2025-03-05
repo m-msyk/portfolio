@@ -1,0 +1,13 @@
+objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+coll001,test001.jpg,,,"Administration Building, University of Idaho, No. 30",Pacific Photo Co.,1910-10-14,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,Public domain,http://rightsstatements.org/vocab/NoC-US/1.0/
+coll002,leo_train_01.jpg,,,"Leonhard Rothmoser, Extension of a Thought, No. 1","Rothmoser, Leonhard",,Photograph of a mirror on train tracks.,train_tracks;mirrors,"Munich, Germany",,,,,Image;StillImage,image/jpeg,,,
+coll003,leo_train_02.jpg,,,"Leonhard Rothmoser, Extension of a Thought, No. 2","Rothmoser, Leonhard",,Photograph of a mirror on train tracks.,train_tracks;mirrors,"Munich, Germany",,,,,Image;StillImage,image/jpeg,,,
+coll004,osaka_01.jpg,,,Abandoned plot in Osaka.,"Crilley, Masa",2022-03-04,Abandoned plot in Osaka.,buildings,"Osaka, Japan",34.381754,135.343906,,,Image;StillImage,image/jpeg,,,
+coll005,osaka_02.jpg,,,Scaffolding on a construction site in Osaka.,"Crilley, Masa",2022-03-04,Scaffolding on a construction site in Osaka.,scaffolding;construction_site,"Osaka, Japan",34.381754,135.343906,,,Image;StillImage,image/jpeg,,,
+coll006,forthcoming_studio_01.jpg,,,"Conversations with Artists III, No. 1","Zuckerman, Heidi",,Photograph of a book.,book,,,,,,Image;StillImage,image/jpeg,,,
+coll007,forthcoming_studio_02.jpg,,,"Conversations with Artists III, No. 2","Zuckerman, Heidi",,Photograph of a book.,book,,,,,,Image;StillImage,image/jpeg,,,
+coll008,forthcoming_studio_03.jpg,,,"Conversations with Artists III, No. 3","Zuckerman, Heidi",,Photograph of a book.,book,,,,,,Image;StillImage,image/jpeg,jpn,,
+coll009,yoshiaka_shimagumi_01.jpg,,,Shimagumi,"Ono, Yoshinaka; Sugahara, Ryota",,Photograph of Shimagumi packaging.,bottle,,,,,,Image;StillImage,image/jpeg,jpn,,
+coll010,yoshiaka_shimagumi_02.jpg,,,Shimagumi,"Ono, Yoshinaka; Sugahara, Ryota",,Photograph of Shimagumi packaging.,bottle,,,,,,Image;StillImage,image/jpeg,jpn,,
+coll011,crilley_teaser.mp4,,,Teaser,"Crilley, Masa",2024-10-02,Teaser for an upcoming film.,buildings;nature,"Shinjuku, Japan",,,,,Image;MovingImage,video/mp4,jpn,,
+coll012,,UCvfm7WiKNs,,The Christo and Jeanne-Claude Center in Gabrovo: New Into Old As Cultural Experiment,CJCenter Gabrovo,"Jul 1, 2023",A talk based on the Bulgarian Pavilion at the Venice Biennale 2023.,,"Venice, Italy",,,,,,,eng,,
